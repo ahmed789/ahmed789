@@ -37,8 +37,10 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mui,html,css,vscode,github,c++,git" />
+    <img src="https://skillicons.dev/icons?i=mui,html,css,vscode,github,git" />
+    <img align="left" alt="Java" width="50px" style="padding-right:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img src="https://skillicons.dev/icons?i=python,c,java,mysql,flask" /><br>
+    
 </div>
 
 <br/>
