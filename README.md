@@ -4,6 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Helaly!;" />
 </h1>
 
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
 <h3 align="center">A passionate software developer from Egypt </h3>
 
 <br/>
@@ -68,6 +70,15 @@
 
 <br/><br/>
 <hr/>
+#
+
+### 📊 Stats
+
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmed789&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ahmed789&theme=gruvbox&border_radius=4.5) -->
+
+#
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
