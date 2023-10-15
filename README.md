@@ -28,7 +28,7 @@
   <a href="mailto:ahmed.mohamed.hussein27@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-hussein-181a18145" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmed-helaly97" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/ahmed789?tab=repositories" target="_blank">
