@@ -1,12 +1,12 @@
-# 🏄‍♂️ Ahmed Mohamed
+# 🏄‍♂️ Ahmed Hussein
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Helaly!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Hussein!;" />
 </h1>
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Craftsman (Developer/Filmmaker/Tester)`**
 
 <h3 align="center">A passionate software developer from Egypt </h3>
 
@@ -16,9 +16,9 @@
  
  🔭 I’m currently working on **an embedded system project**
  
- 🌱 I’m currently learning **C, RTOS, AOUTZAR, PIC microcontroller**
+ 🌱 I’m currently learning **C, RTOS, AUTOSAR, MISRA C, PIC microcontroller, ARM cortex**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/ahmed789))**
+ 💬 Ask me about **C, C++, PYTHON, Machine Learning, Embedded... or anything [here]([https://github.com/ahmed789/ahmed789/issues](https://github.com/ahmed789))**
 
  
  
