@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **an embedded system project**
  
- 🌱 I’m currently learning **C, RTOS, AUTOSAR, MISRA C, PIC microcontroller, ARM cortex**
+ 🌱 I’m currently learning **C, RTOS, CAN, LIN, AUTOSAR, MISRA C, PIC microcontroller, ARM cortex**
 
  💬 Ask me about **C, C++, PYTHON, Machine Learning, Embedded... or anything**
 
